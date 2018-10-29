@@ -1,3 +1,7 @@
+## 0.2.1-ussba
+
+- HUB-1659: allow the viewer origins to be set via ENV var
+
 ## 0.2.0
 
 - Allow customizing the viewer (see https://github.com/senny/pdfjs_viewer-rails#customizing-the-viewer)
